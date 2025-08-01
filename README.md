@@ -44,6 +44,7 @@ desafio-poo-iphone/
 │   └── Iphone.java
 ├── diagrama-uml.md
 └── README.md
+``` 
 
 📊 Diagrama UML
 O diagrama de classes UML está disponível no arquivo diagrama-uml.md, criado utilizando a sintaxe Mermaid.
